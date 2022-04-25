@@ -1,5 +1,2 @@
 def helloworld():
-    print("Hello, World!")
-
-helloworld()
-
+    return "Hello, World!"
